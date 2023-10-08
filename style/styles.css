@@ -1,5 +1,30 @@
 * {
     text-align: center;
     justify-content: center;
+    background-color: #f9f7fe;
+    font-weight: bold;
+    padding: 16px 0;
+
+}
+button{
+    border-radius: 5px;
+    margin:auto;
+    padding: 25px;
+
+}
+
+div{
+    margin:auto;
+    padding: auto;
+}
+h3{ 
+    font-size: 36px;
+
+}
+h1{
+    font-size: 96px;
+}
+h5{
+    font-weight: normal;
     
 }

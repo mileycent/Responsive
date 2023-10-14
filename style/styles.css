@@ -41,3 +41,11 @@ h5{
         text-align: center;
     }
 }
+img {
+    border-radius: 8px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    max-width: 70%;
+    max-height: 70%;
+    height: auto;
+}

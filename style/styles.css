@@ -28,6 +28,10 @@ h5{
     font-weight: normal;
     
 }
+.body-icon{
+    text-align: center;
+    justify-content: center;
+}
 .btn-warning{
     border-radius: 4px;
     padding: 15px 30px;
